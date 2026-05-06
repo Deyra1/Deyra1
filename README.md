@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deyra</h1>
 <h3 align="center">An Aspiring Product Manager</h3>
 
-- 🔭 I’m currently working on **Habi**
+- 🔭 I’m currently working on **Wepie**
 
 - 🌱 I’m currently learning **English, Arabic, SQL, Android Development.**
 
